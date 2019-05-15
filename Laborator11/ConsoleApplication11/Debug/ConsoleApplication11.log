@@ -1,0 +1,10 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(60,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(87): message :  see reference to function template instantiation 'void sortare<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(87): message :         with
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(87): message :         [
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(87): message :             _Ty=int
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(87): message :         ]
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(69,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\craci\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(71,18): warning C4018:  '<': signed/unsigned mismatch
+  ConsoleApplication11.vcxproj -> C:\Users\craci\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe

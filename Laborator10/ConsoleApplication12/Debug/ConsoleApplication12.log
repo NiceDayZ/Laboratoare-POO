@@ -1,0 +1,3 @@
+﻿  ConsoleApplication12.cpp
+  C:\Users\craci\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(131) : warning C4715: 'Array<int>::operator[]': not all control paths return a value
+  ConsoleApplication12.vcxproj -> C:\Users\craci\source\repos\ConsoleApplication12\Debug\ConsoleApplication12.exe

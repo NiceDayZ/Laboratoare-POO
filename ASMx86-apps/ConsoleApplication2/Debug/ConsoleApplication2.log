@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+c:\users\craci\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(598): warning C4102: '_consoana': unreferenced label
+c:\users\craci\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(617): warning C4409: illegal instruction size
+c:\users\craci\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(721): warning C4102: '_douaSolutii': unreferenced label
+  ConsoleApplication2.vcxproj -> C:\Users\craci\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication6.cpp
+c:\users\craci\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(6): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\craci\source\repos\consoleapplication6\consoleapplication6\pch.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\craci\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(62): error C3861: 'Elemete': identifier not found
+  c:\users\craci\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(99): note: see reference to class template instantiation 'List<T>' being compiled

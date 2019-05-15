@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+c:\users\craci\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\craci\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\craci\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\craci\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\craci\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(221): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication3.vcxproj -> C:\Users\craci\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
